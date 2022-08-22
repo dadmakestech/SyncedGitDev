@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android/_submodules_/Images" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android/build/src/NuanceSpeechAnywhere/src/main/jni/ClientCore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android/build/src/NuanceSpeechAnywhere/src/main/jni/ClientCore/Nuance.SpeechAnywhere.SdkCore/external/AudioSpeex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android/build/src/NuanceSpeechAnywhere/src/main/jni/ClientCore/Nuance.SpeechAnywhere.SdkCore/external/VAD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android/build/src/NuanceSpeechAnywhere/src/main/jni/ClientCore/Nuance.SpeechAnywhere.SdkCore/external/pugixml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/danube-extensions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desktop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desktop/_submodules_/PugiXML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desktop/build/src/Desktop/Nuance.SpeechAnywhere.DotNetSdkCore/ClientCore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desktop/build/src/Desktop/Nuance.SpeechAnywhere.DotNetSdkCore/ClientCore/Nuance.SpeechAnywhere.SdkCore/external/AudioSpeex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desktop/build/src/Desktop/Nuance.SpeechAnywhere.DotNetSdkCore/ClientCore/Nuance.SpeechAnywhere.SdkCore/external/VAD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desktop/build/src/Desktop/Nuance.SpeechAnywhere.DotNetSdkCore/ClientCore/Nuance.SpeechAnywhere.SdkCore/external/pugixml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desktop/build/src/Desktop/shared-resources" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desktop/qaa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dmic-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dmic-components" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/svr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/svr/build/src/Server/shared-resources" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/svr/qaa" vcs="Git" />
+  </component>
+</project>
